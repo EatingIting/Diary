@@ -4,7 +4,7 @@
 SQLite를 활용하여, 어플을 껐다켜도 저장이 되게끔 만들어보았습니다.
 
 1. 어플 실행 후 모습
-<img width="415" alt="스크린샷 2023-11-11 오후 6 03 37" src="https://github.com/EatingIting/Diary/assets/88502727/43780862-4926-4ecd-b76b-bca148ca1da3">
+<img width="490" alt="스크린샷 2023-11-11 오후 6 03 37" src="https://github.com/EatingIting/Diary/assets/88502727/43780862-4926-4ecd-b76b-bca148ca1da3">
 
 
 2. 글쓰기 사진 버튼 누른 후
